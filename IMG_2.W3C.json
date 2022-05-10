@@ -11,5 +11,31 @@
         }
       ]
     }
-  }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8b0dc753-eb00-4ddc-9c4b-6ec83c510cc5",
+    "type": "Annotation",
+    "target": {
+      "selector": [
+        {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points='2048,1402 2148,1638, 2600,1433 2504,1179'></polygon></svg>"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8b0dc753-eb00-4ddc-9c4b-6ec83c510cc5",
+    "type": "Annotation",
+    "target": {
+      "selector": [
+        {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points='1904,689 1971,969, 2474,859 2414,579'></polygon></svg>"
+        }
+      ]
+    }
+  },
 ]
