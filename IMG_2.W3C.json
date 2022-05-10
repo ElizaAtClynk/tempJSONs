@@ -1,0 +1,15 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "10594488-5a3d-4ce0-bf56-cd0cd58c8c86",
+    "type": "Annotation",
+    "target": {
+      "selector": [
+        {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points='1388,1709 1790,1971, 1971,1790 1589,1433'></polygon></svg>"
+        }
+      ]
+    }
+  }
+]
